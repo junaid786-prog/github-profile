@@ -1,4 +1,4 @@
-<a href="http://eddiejaoude.io" target="_blank"><img src="https://user-images.githubusercontent.com/624760/197235663-1a08eef9-4f9f-4986-8177-c32329a65f3e.jpeg" /></a>
+<img src="https://geekflare.com/wp-content/uploads/2022/10/Heres-What-it-Means-to-Be-a-Full-Stack-Developer.jpeg" />
 
 <p align="center">I believe Open Source is for EVERYONE; yes, YOU TOO! Join me on my <a href="http://youtube.com/eddiejaoude?sub_confirmation=1">YouTube channel</a> so we can geek out 🎥</p>
 
